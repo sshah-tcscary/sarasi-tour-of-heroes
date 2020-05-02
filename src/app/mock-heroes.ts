@@ -23,8 +23,8 @@ export const HEROES: Hero[] = [
       "Bring the icy blue waters and sunny days into your life! This new bracelet features all the beautiful colors of the sea.",
     imageUrl:
       "https://cdn.jsdelivr.net/gh/sshah-tcscary/sarasi-tour-of-heroes@master/src/app/assets/image%20(1).png",
-    imageUrl:
-       "" 
+    imageUrl2:
+       "https://cdn.jsdelivr.net/gh/sshah-tcscary/sarasi-tour-of-heroes@master/src/app/assets/IMG_6813.JPG" 
   },
   {
     id: 2.99,
