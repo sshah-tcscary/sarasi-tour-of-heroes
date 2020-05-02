@@ -1,7 +1,9 @@
 <div *ngIf="hero">
-  <h2>{{hero.name}}</h2>
-  <h3>Description - {{hero.description}} </h3>
-  <div><span>Price: $</span>{{hero.id}}</div>
-  <div><img class="product-image" [src]="hero.imageUrl"/></div>
-  <button (click)="goBack()">Back</button>
+	<h2>{{hero.name}}</h2>
+	<h3>Description - {{hero.description}} </h3>
+	<div><span>Price: $</span>{{hero.id}}</div>
+	<div><img class="product-image" [src]="hero.imageUrl"/></div>
+	<div><img class="product-image" [src]="hero.imageUrl2"/></div>
+	<div><img class="product-image" [src]="hero.imageUrl3"/></div>
+	<button (click)="goBack()">Back</button>
 </div>
